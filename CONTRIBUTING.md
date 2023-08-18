@@ -25,7 +25,7 @@
         </a>
     </td>
      <td align="center">
-        <a href="https://github.com/kRajoria121">
+        <a href="">
             <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="fun"/>
             <br />
             <sub><b>baklol
